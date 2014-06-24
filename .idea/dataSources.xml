@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1131655845">
+    <data-source source="LOCAL" name="PostgreSQL - autom@localhost" uuid="05846988-eee5-47cf-b64e-a0d518b0ab14">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/autom</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Work/postgresql-9.3-1101.jdbc41.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

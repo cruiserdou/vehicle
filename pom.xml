@@ -8,7 +8,7 @@
     <name>vehicle</name>
 
     <properties>
-        <spring.version>3.2.0.RELEASE</spring.version>
+        <spring.version>4.0.2.RELEASE</spring.version>
     </properties>
 
     <dependencies>
@@ -17,6 +17,13 @@
             <artifactId>spring-core</artifactId>
             <version>${spring.version}</version>
         </dependency>
+
+        <!--<dependency>-->
+        <!--<groupId>org.springframework</groupId>-->
+        <!--<artifactId>spring-mail</artifactId>-->
+        <!--<version>${spring.version}</version>-->
+        <!--&lt;!&ndash;<version>4.0.2</version>&ndash;&gt;-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>org.springframework</groupId>

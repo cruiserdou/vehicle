@@ -25,16 +25,16 @@
     </bean>
 
     <!--<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"-->
-          <!--p:defaultEncoding="UTF-8"-->
-          <!--p:maxUploadSize="5242880"></bean>-->
-          <!--&lt;!&ndash;p:uploadTempDir="/share/upload/temp"></bean>&ndash;&gt;-->
+    <!--p:defaultEncoding="UTF-8"-->
+    <!--p:maxUploadSize="5242880"></bean>-->
+    <!--&lt;!&ndash;p:uploadTempDir="/share/upload/temp"></bean>&ndash;&gt;-->
 
     <!--<bean id="multipartResolver"-->
-          <!--class="org.springframework.web.multipart.commons.CommonsMultipartResolver">-->
-        <!--&lt;!&ndash; 设置上传文件的最大尺寸为1MB &ndash;&gt;-->
-        <!--<property name="maxUploadSize">-->
-            <!--<value>5242880</value>-->
-        <!--</property>-->
+    <!--class="org.springframework.web.multipart.commons.CommonsMultipartResolver">-->
+    <!--&lt;!&ndash; 设置上传文件的最大尺寸为1MB &ndash;&gt;-->
+    <!--<property name="maxUploadSize">-->
+    <!--<value>5242880</value>-->
+    <!--</property>-->
     <!--</bean>-->
 
     <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"
